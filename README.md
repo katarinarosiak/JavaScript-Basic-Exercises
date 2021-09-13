@@ -1,1 +1,1 @@
-#Those are excercies from a preparation part of the course #
+#Excercies from a preparation part of the Launch School Curriculum#
