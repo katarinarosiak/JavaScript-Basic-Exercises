@@ -1,1 +1,1 @@
-#Exercies from a preparation part of the Launch School Curriculum#
+# A set of JavaScript easy problems and exercises
