@@ -1,1 +1,1 @@
-# A set of JavaScript easy problems and exercises
+A set of JavaScript easy problems and exercises
